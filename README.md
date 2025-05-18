@@ -22,7 +22,7 @@ Visualizations: quantum circuit (text-based), measurement distribution, key leng
 Future Vision
 NIST-standard testing for security.
 
-EEG-based authentication with NextMind.
+EEG-based authentication with NextMind with Snaps’s unreleased visual cortex BCI for visual cortex eye mind control authentication
 
 Collaboration with IBM to reduce quantum computing costs.
 
@@ -35,6 +35,6 @@ Bitcoin testnet integration for real transactions.
 Funding Goal: $250k-$1M for development and testing.
 Website: (soon to be https://quantumpqe.com)
 Company: https://www.aiquantumcypher.com
-Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [your email or website].
+Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [https://aiquantumcypher.com].
 License
 This project is proprietary and not licensed for use. All rights reserved by AI Quantum Cypher. Contact [https://aiquantumcypher.com] for licensing inquiries.
