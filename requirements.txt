@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+pycryptodome
+python-bitcoinlib
+cryptography
+matplotlib
+numpy
