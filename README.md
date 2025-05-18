@@ -33,7 +33,7 @@ Exploration of post-quantum signature schemes like Dilithium, enhanced with quan
 Bitcoin testnet integration for real transactions.
 
 Funding Goal: $250k-$1M for development and testing.
-Website: https://yourusername.github.io/qpqe-bitcoin-hackathon (soon to be https://quantumpqe.com)
+Website: (soon to be https://quantumpqe.com)
 Company: https://www.aiquantumcypher.com
 Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [your email or website].
 License
