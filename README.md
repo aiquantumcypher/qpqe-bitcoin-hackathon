@@ -7,3 +7,27 @@ QPQE (Quantum Post-Quantum Encryption) is a quantum-secure Bitcoin wallet protot
 2. Install dependencies:
    ```bash
    !pip install qiskit qiskit-aer pycryptodome python-bitcoinlib cryptography matplotlib
+
+Features
+Quantum random number generation with Qiskit.
+
+Simulated Kyber post-quantum encryption (proprietary).
+
+Bitcoin address generation with ECDSA.
+
+Visualizations: quantum circuit (text-based), measurement distribution, key lengths comparison.
+
+Future Vision
+NIST-standard testing for security.
+
+EEG-based authentication with NextMind.
+
+Collaboration with IBM to reduce quantum computing costs.
+
+Funding Goal: $250k-$1M for development and testing.
+Website: quantumpqe.com
+Company: www.aiquantumcypher.com
+Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [your email or website].
+License
+This project is proprietary and not licensed for use. All rights reserved by AI Quantum Cypher. Contact [your email or website] for licensing inquiries.
+
