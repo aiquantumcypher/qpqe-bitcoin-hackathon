@@ -37,4 +37,4 @@ Website: https://yourusername.github.io/qpqe-bitcoin-hackathon (soon to be https
 Company: https://www.aiquantumcypher.com
 Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [your email or website].
 License
-This project is proprietary and not licensed for use. All rights reserved by AI Quantum Cypher. Contact [your email or website] for licensing inquiries.
+This project is proprietary and not licensed for use. All rights reserved by AI Quantum Cypher. Contact [https://aiquantumcypher.com] for licensing inquiries.
