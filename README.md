@@ -37,8 +37,14 @@ Bitcoin testnet integration for real transactions.
 Funding Goal: $250k-$1M for development and testing.
 Website: https://quantumpqe.com (coming soon)
 Company: https://aiquantumcypher.com
-Note: Certain proprietary code has been excluded to protect intellectual property. For full details or licensing inquiries, contact [your email or website].
+Note: Certain proprietary code has been excluded to protect intellectual property. 
+
+For full details or licensing inquiries, contact [https://aiquantumcypher.com](https://aiquantumcypher.com).
 License
-This project is proprietary and not licensed for use. All rights reserved by AI Quantum Cypher. Contact [your email or website] for licensing inquiries.
+This project is proprietary and not licensed for use. 
+
+All rights reserved by AI Quantum Cypher. 
+
+Contact [https://aiquantumcypher.com](https://aiquantumcypher.com) for licensing inquiries.
 
 
